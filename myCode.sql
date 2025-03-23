@@ -1,3 +1,3 @@
 create table xyz 
 as 
-select * from abc where p=1;
+select * from abc where p=10;
